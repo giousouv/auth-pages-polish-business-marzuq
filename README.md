@@ -1,4 +1,4 @@
-# Project Title
+# Authentication Pages for Polish Business users
 
 ## 📸 Screenshots
 
